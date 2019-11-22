@@ -1,4 +1,4 @@
-# NetLogo Wolves Sheeps predation model
+# NetLogo Wolves Sheep predation model
 
 A little adjusted model which:
 - sheeps looks for nearby wolves and runs away if there is some
